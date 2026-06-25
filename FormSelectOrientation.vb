@@ -215,7 +215,9 @@ Public Class FormSelectOrientation
 
                 If (con.State = ConnectionState.Closed) Then
                     con.Open()
-                    req = "SELECT * FROM DataGridSelect WHERE RefDoc = @RefDoc"
+                    req = "SELECT *, ISNULL(CONVERT(VARCHAR(10), DateReception, 103), '') AS DateRecptFrt, 
+                            ISNULL(CONVERT(VARCHAR(10), DateDoc, 103), '') AS DateDocFrt,
+                            ISNULL(CONVERT(VARCHAR(10), DateExpedition, 103), '') AS DateExpeditionFrt FROM DataGridSelect WHERE RefDoc = @RefDoc"
                     cmd = New SqlCommand(req, con)
                     cmd.Parameters.AddWithValue("@RefDoc", TxtRef.Text.Trim)
                     Dread = cmd.ExecuteReader()
@@ -223,9 +225,12 @@ Public Class FormSelectOrientation
                         concerne = Dread("ConcerneDoc").ToString
                         NumDocc = Dread("NumOrdDoc").ToString
                         RefDoc = Dread("RefDoc").ToString
-                        DateDocument = Dread("DateDoc").ToShortDateString
-                        DateRecept = Dread("DateReception").ToShortDateString
-                        DateExped = Dread("DateExpedition").ToShortDateString
+
+
+                        DateDocument = Dread("DateDocFrt")
+                        DateRecept = Dread("DateRecptFrt")
+                        DateExped = Dread("DateExpeditionFrt")
+
                         Etat = Dread("LibEtat1").ToString
                         Annexe = Dread("Annexe").ToString
                         annotation = Dread("Annotation").ToString
@@ -248,5 +253,49 @@ Public Class FormSelectOrientation
                 MessageBox.Show("Numéro de séquence: " & ex.Message)
             End Try
         End If
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Try
+
+            If (con.State = ConnectionState.Closed) Then
+                con.Open()
+                req = "SELECT *, ISNULL(CONVERT(VARCHAR(10), DateReception, 103), '') AS DateRecptFrt, 
+                            ISNULL(CONVERT(VARCHAR(10), DateDoc, 103), '') AS DateDocFrt,
+                            ISNULL(CONVERT(VARCHAR(10), DateExpedition, 103), '') AS DateExpeditionFrt FROM DataGridSelect WHERE RefDoc = @RefDoc"
+                cmd = New SqlCommand(req, con)
+                cmd.Parameters.AddWithValue("@RefDoc", TxtRef.Text.Trim)
+                Dread = cmd.ExecuteReader()
+                If (Dread.Read) Then
+                    concerne = Dread("ConcerneDoc").ToString
+                    NumDocc = Dread("NumOrdDoc").ToString
+                    RefDoc = Dread("RefDoc").ToString
+
+
+                    DateDocument = Dread("DateDocFrt")
+                    DateRecept = Dread("DateRecptFrt")
+                    DateExped = Dread("DateExpeditionFrt")
+
+                    Etat = Dread("LibEtat1").ToString
+                    Annexe = Dread("Annexe").ToString
+                    annotation = Dread("Annotation").ToString
+                    Dim FORT As New Forientation()
+                    FORT.Show()
+                    Me.Hide()
+
+                Else
+
+                    MessageBox.Show("Cette référence est inexistante")
+                    formLoadFields()
+
+                    fillGrid2()
+
+                End If
+
+            End If
+            con.Close()
+        Catch ex As Exception
+            MessageBox.Show("Numéro de séquence: " & ex.Message)
+        End Try
     End Sub
 End Class

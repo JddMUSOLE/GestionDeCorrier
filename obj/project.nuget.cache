@@ -30,15 +30,5 @@
     "C:\\Users\\jeand\\.nuget\\packages\\system.data.sqlclient\\4.9.1\\system.data.sqlclient.4.9.1.nupkg.sha512",
     "C:\\Users\\jeand\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.16.0\\system.identitymodel.tokens.jwt.8.16.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "message": "Une erreur s’est produite lors de l’obtention des données de vulnérabilité du package\u00A0: Une erreur s'est produite lors de l'envoi de la demande.",
-      "projectPath": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierApp.vbproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierApp.vbproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

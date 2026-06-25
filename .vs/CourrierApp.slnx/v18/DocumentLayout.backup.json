@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\formselectorientation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:formselectorientation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\formselectorientation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:formselectorientation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\fordreserv.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:fordreserv.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\fordreserv.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:fordreserv.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\forientation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:forientation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\fetatcourrier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:fetatcourrier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\forientation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:forientation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\connexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:connexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierservicedrh.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courrierservicedrh.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierservicedrh.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courrierservicedrh.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\fetatcourrier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:fetatcourrier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierentrantagent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -47,8 +23,76 @@
       "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courrierentrantagent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierentrantorg.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courrierentrantorg.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierentrant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courrierentrant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\menuprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:menuprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\menuprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:menuprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierapp.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courrierapp.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\fselectrecherche.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:fselectrecherche.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\fselectrecherche.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:fselectrecherche.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\frecherche.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:frecherche.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\frecherche.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:frecherche.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierservicedrh.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courrierservicedrh.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courriersortant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courriersortant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\fsectconsul.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:fsectconsul.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\forientation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:forientation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\formselectorientation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:formselectorientation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\formselectorientation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:formselectorientation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\forientation.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:forientation.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\forientation.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:forientation.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courriersortant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courriersortant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\fordreserv.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:fordreserv.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierentrantorg.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
@@ -61,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courriersortantorgbcc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courriersortantorgbcc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierentrantorgexterne.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courrierentrantorgexterne.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierentrantorgexterne.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
@@ -87,28 +127,8 @@
       "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:finstruction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courriersortant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courriersortant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courriersortant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courriersortant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\menuprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:menuprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\menuprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:menuprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierentrant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courrierentrant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierentrant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -126,11 +146,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 22,
               "Title": "FordreServ.vb",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FordreServ.vb",
               "RelativeDocumentMoniker": "FordreServ.vb",
@@ -139,324 +159,72 @@
               "ViewState": "AgIAAJYAAAAAAAAAAAAjwLEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-06-02T16:07:57.899Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FEtatCourrier.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FEtatCourrier.vb",
+              "RelativeDocumentMoniker": "FEtatCourrier.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FEtatCourrier.vb [Conception]",
+              "RelativeToolTip": "FEtatCourrier.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-18T07:05:59.925Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FEtatCourrier.vb",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FEtatCourrier.vb",
+              "RelativeDocumentMoniker": "FEtatCourrier.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FEtatCourrier.vb",
+              "RelativeToolTip": "FEtatCourrier.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-18T07:18:02.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormSelectOrientation.vb [Conception]",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FormSelectOrientation.vb",
-              "RelativeDocumentMoniker": "FormSelectOrientation.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FormSelectOrientation.vb [Conception]",
-              "RelativeToolTip": "FormSelectOrientation.vb [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-06-03T14:01:37.029Z",
-              "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormSelectOrientation.vb",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FormSelectOrientation.vb",
-              "RelativeDocumentMoniker": "FormSelectOrientation.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FormSelectOrientation.vb",
-              "RelativeToolTip": "FormSelectOrientation.vb",
-              "ViewState": "AgIAAKYAAAAAAAAAAADgv7YAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-06-04T11:53:08.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FordreServ.vb [Conception]",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FordreServ.vb",
-              "RelativeDocumentMoniker": "FordreServ.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FordreServ.vb [Conception]",
-              "RelativeToolTip": "FordreServ.vb [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-06-02T15:52:28.039Z",
-              "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Forientation.vb",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Forientation.vb",
-              "RelativeDocumentMoniker": "Forientation.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Forientation.vb",
-              "RelativeToolTip": "Forientation.vb",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAvwKoAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-06-05T09:06:18.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Forientation.vb [Conception]",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Forientation.vb",
               "RelativeDocumentMoniker": "Forientation.vb",
               "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Forientation.vb [Conception]",
               "RelativeToolTip": "Forientation.vb [Conception]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-06-04T17:16:16.945Z",
+              "WhenOpened": "2026-06-11T11:49:45.286Z",
               "EditorCaption": " [Conception]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "connexion.vb",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\connexion.vb",
-              "RelativeDocumentMoniker": "connexion.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\connexion.vb",
-              "RelativeToolTip": "connexion.vb",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-27T11:13:52.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CourrierServiceDRH.vb",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierServiceDRH.vb",
-              "RelativeDocumentMoniker": "CourrierServiceDRH.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierServiceDRH.vb",
-              "RelativeToolTip": "CourrierServiceDRH.vb",
-              "ViewState": "AgIAANUAAAAAAAAAAAArwOgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-27T09:51:30.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CourrierServiceDRH.vb [Conception]",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierServiceDRH.vb",
-              "RelativeDocumentMoniker": "CourrierServiceDRH.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierServiceDRH.vb [Conception]",
-              "RelativeToolTip": "CourrierServiceDRH.vb [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-06-04T16:23:38.414Z",
-              "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "CourrierEntrantAgent.vb",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantAgent.vb",
               "RelativeDocumentMoniker": "CourrierEntrantAgent.vb",
               "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantAgent.vb",
               "RelativeToolTip": "CourrierEntrantAgent.vb",
-              "ViewState": "AgIAABEBAAAAAAAAAAAvwBEBAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-27T23:32:28.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T14:38:27.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "CourrierEntrantAgent.vb [Conception]",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantAgent.vb",
               "RelativeDocumentMoniker": "CourrierEntrantAgent.vb",
               "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantAgent.vb [Conception]",
               "RelativeToolTip": "CourrierEntrantAgent.vb [Conception]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-27T23:31:16.938Z",
+              "WhenOpened": "2026-06-17T14:38:24.786Z",
               "EditorCaption": " [Conception]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CourrierEntrantOrg.vb",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrg.vb",
-              "RelativeDocumentMoniker": "CourrierEntrantOrg.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrg.vb",
-              "RelativeToolTip": "CourrierEntrantOrg.vb",
-              "ViewState": "AgIAAC0BAAAAAAAAAAArwC8BAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-27T23:38:41.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CourrierEntrantOrg.vb [Conception]",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrg.vb",
-              "RelativeDocumentMoniker": "CourrierEntrantOrg.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrg.vb [Conception]",
-              "RelativeToolTip": "CourrierEntrantOrg.vb [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-12T15:36:27.62Z",
-              "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CourrierSortantOrgBcc.vb",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortantOrgBcc.vb",
-              "RelativeDocumentMoniker": "CourrierSortantOrgBcc.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortantOrgBcc.vb",
-              "RelativeToolTip": "CourrierSortantOrgBcc.vb",
-              "ViewState": "AgIAACYBAAAAAAAAAAAAADgBAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-27T17:18:36.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CourrierSortantOrgBcc.vb [Conception]",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortantOrgBcc.vb",
-              "RelativeDocumentMoniker": "CourrierSortantOrgBcc.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortantOrgBcc.vb [Conception]",
-              "RelativeToolTip": "CourrierSortantOrgBcc.vb [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-27T16:09:02.726Z",
-              "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CourrierEntrantOrgExterne.vb",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrgExterne.vb",
-              "RelativeDocumentMoniker": "CourrierEntrantOrgExterne.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrgExterne.vb",
-              "RelativeToolTip": "CourrierEntrantOrgExterne.vb",
-              "ViewState": "AgIAAH8AAAAAAAAAAADwvz8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-26T16:33:51.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CourrierEntrantOrgExterne.vb [Conception]",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrgExterne.vb",
-              "RelativeDocumentMoniker": "CourrierEntrantOrgExterne.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrgExterne.vb [Conception]",
-              "RelativeToolTip": "CourrierEntrantOrgExterne.vb [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-26T16:31:47.725Z",
-              "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CourrierSortantSceDRH.vb",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortantSceDRH.vb",
-              "RelativeDocumentMoniker": "CourrierSortantSceDRH.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortantSceDRH.vb",
-              "RelativeToolTip": "CourrierSortantSceDRH.vb",
-              "ViewState": "AgIAAJsAAAAAAAAAAAArwKYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-31T19:13:56.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CourrierSortantSceDRH.vb [Conception]",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortantSceDRH.vb",
-              "RelativeDocumentMoniker": "CourrierSortantSceDRH.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortantSceDRH.vb [Conception]",
-              "RelativeToolTip": "CourrierSortantSceDRH.vb [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-31T18:18:28.697Z",
-              "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Finstruction.vb [Conception]",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Finstruction.vb",
-              "RelativeDocumentMoniker": "Finstruction.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Finstruction.vb [Conception]",
-              "RelativeToolTip": "Finstruction.vb [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-06-03T11:50:30.595Z",
-              "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Finstruction.vb",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Finstruction.vb",
-              "RelativeDocumentMoniker": "Finstruction.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Finstruction.vb",
-              "RelativeToolTip": "Finstruction.vb",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAswJ4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-06-03T12:03:00.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CourrierSortant.vb",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortant.vb",
-              "RelativeDocumentMoniker": "CourrierSortant.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortant.vb",
-              "RelativeToolTip": "CourrierSortant.vb",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAywBoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-27T16:26:14.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CourrierSortant.vb [Conception]",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortant.vb",
-              "RelativeDocumentMoniker": "CourrierSortant.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortant.vb [Conception]",
-              "RelativeToolTip": "CourrierSortant.vb [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-27T16:25:35.43Z",
-              "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Form1.vb [Conception]",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Form1.vb",
-              "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Form1.vb [Conception]",
-              "RelativeToolTip": "Form1.vb [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-06-03T14:02:29.625Z",
-              "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "MenuPrincipal.vb",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\MenuPrincipal.vb",
-              "RelativeDocumentMoniker": "MenuPrincipal.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\MenuPrincipal.vb",
-              "RelativeToolTip": "MenuPrincipal.vb",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-06-02T16:09:58.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "MenuPrincipal.vb [Conception]",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\MenuPrincipal.vb",
-              "RelativeDocumentMoniker": "MenuPrincipal.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\MenuPrincipal.vb [Conception]",
-              "RelativeToolTip": "MenuPrincipal.vb [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-15T17:45:30.022Z",
-              "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 5,
               "Title": "CourrierEntrant.vb [Conception]",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrant.vb",
               "RelativeDocumentMoniker": "CourrierEntrant.vb",
@@ -468,7 +236,307 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuPrincipal.vb",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\MenuPrincipal.vb",
+              "RelativeDocumentMoniker": "MenuPrincipal.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\MenuPrincipal.vb",
+              "RelativeToolTip": "MenuPrincipal.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-02T16:09:58.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuPrincipal.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\MenuPrincipal.vb",
+              "RelativeDocumentMoniker": "MenuPrincipal.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\MenuPrincipal.vb [Conception]",
+              "RelativeToolTip": "MenuPrincipal.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-15T17:45:30.022Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourrierApp",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierApp.vbproj",
+              "RelativeDocumentMoniker": "CourrierApp.vbproj",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierApp.vbproj",
+              "RelativeToolTip": "CourrierApp.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2026-06-18T09:50:03.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FSelectRecherche.vb",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FSelectRecherche.vb",
+              "RelativeDocumentMoniker": "FSelectRecherche.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FSelectRecherche.vb",
+              "RelativeToolTip": "FSelectRecherche.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-18T06:56:37.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FSelectRecherche.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FSelectRecherche.vb",
+              "RelativeDocumentMoniker": "FSelectRecherche.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FSelectRecherche.vb [Conception]",
+              "RelativeToolTip": "FSelectRecherche.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-18T06:45:36.381Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Frecherche.vb",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Frecherche.vb",
+              "RelativeDocumentMoniker": "Frecherche.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Frecherche.vb",
+              "RelativeToolTip": "Frecherche.vb",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAIwHEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-11T11:54:18.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Frecherche.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Frecherche.vb",
+              "RelativeDocumentMoniker": "Frecherche.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Frecherche.vb [Conception]",
+              "RelativeToolTip": "Frecherche.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-11T11:49:10.295Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourrierServiceDRH.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierServiceDRH.vb",
+              "RelativeDocumentMoniker": "CourrierServiceDRH.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierServiceDRH.vb [Conception]",
+              "RelativeToolTip": "CourrierServiceDRH.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-18T07:16:51.534Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CourrierSortant.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortant.vb",
+              "RelativeDocumentMoniker": "CourrierSortant.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortant.vb [Conception]",
+              "RelativeToolTip": "CourrierSortant.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-27T16:25:35.43Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FSectConsul.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FSectConsul.vb",
+              "RelativeDocumentMoniker": "FSectConsul.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FSectConsul.vb [Conception]",
+              "RelativeToolTip": "FSectConsul.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-11T12:07:28.033Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Forientation.vb",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Forientation.vb",
+              "RelativeDocumentMoniker": "Forientation.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Forientation.vb",
+              "RelativeToolTip": "Forientation.vb",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-17T14:28:44.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormSelectOrientation.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FormSelectOrientation.vb",
+              "RelativeDocumentMoniker": "FormSelectOrientation.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FormSelectOrientation.vb [Conception]",
+              "RelativeToolTip": "FormSelectOrientation.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-11T11:49:51.155Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormSelectOrientation.vb",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FormSelectOrientation.vb",
+              "RelativeDocumentMoniker": "FormSelectOrientation.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FormSelectOrientation.vb",
+              "RelativeToolTip": "FormSelectOrientation.vb",
+              "ViewState": "AgIAANsAAAAAAAAAAAAowCoBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-11T11:53:24.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Forientation.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Forientation.Designer.vb",
+              "RelativeDocumentMoniker": "Forientation.Designer.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Forientation.Designer.vb",
+              "RelativeToolTip": "Forientation.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-11T11:33:07.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Forientation.resx",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Forientation.resx",
+              "RelativeDocumentMoniker": "Forientation.resx",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Forientation.resx",
+              "RelativeToolTip": "Forientation.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-11T11:33:07.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CourrierEntrantOrg.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrg.vb",
+              "RelativeDocumentMoniker": "CourrierEntrantOrg.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrg.vb [Conception]",
+              "RelativeToolTip": "CourrierEntrantOrg.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-12T15:36:27.62Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CourrierSortantOrgBcc.vb",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortantOrgBcc.vb",
+              "RelativeDocumentMoniker": "CourrierSortantOrgBcc.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortantOrgBcc.vb",
+              "RelativeToolTip": "CourrierSortantOrgBcc.vb",
+              "ViewState": "AgIAACYBAAAAAAAAAAAAADgBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-27T17:18:36.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CourrierSortantOrgBcc.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortantOrgBcc.vb",
+              "RelativeDocumentMoniker": "CourrierSortantOrgBcc.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortantOrgBcc.vb [Conception]",
+              "RelativeToolTip": "CourrierSortantOrgBcc.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-27T16:09:02.726Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CourrierEntrantOrgExterne.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrgExterne.vb",
+              "RelativeDocumentMoniker": "CourrierEntrantOrgExterne.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrgExterne.vb [Conception]",
+              "RelativeToolTip": "CourrierEntrantOrgExterne.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-26T16:31:47.725Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 27,
+              "Title": "CourrierSortantSceDRH.vb",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortantSceDRH.vb",
+              "RelativeDocumentMoniker": "CourrierSortantSceDRH.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortantSceDRH.vb",
+              "RelativeToolTip": "CourrierSortantSceDRH.vb",
+              "ViewState": "AgIAAJsAAAAAAAAAAAArwKYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-31T19:13:56.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CourrierSortantSceDRH.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortantSceDRH.vb",
+              "RelativeDocumentMoniker": "CourrierSortantSceDRH.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortantSceDRH.vb [Conception]",
+              "RelativeToolTip": "CourrierSortantSceDRH.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-31T18:18:28.697Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Finstruction.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Finstruction.vb",
+              "RelativeDocumentMoniker": "Finstruction.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Finstruction.vb [Conception]",
+              "RelativeToolTip": "Finstruction.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-03T11:50:30.595Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Finstruction.vb",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Finstruction.vb",
+              "RelativeDocumentMoniker": "Finstruction.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Finstruction.vb",
+              "RelativeToolTip": "Finstruction.vb",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAswJ4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-03T12:03:00.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CourrierSortant.vb",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortant.vb",
+              "RelativeDocumentMoniker": "CourrierSortant.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortant.vb",
+              "RelativeToolTip": "CourrierSortant.vb",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAywBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-27T16:26:14.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Form1.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Form1.vb [Conception]",
+              "RelativeToolTip": "Form1.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-03T14:02:29.625Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "CourrierEntrant.vb",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrant.vb",
               "RelativeDocumentMoniker": "CourrierEntrant.vb",
@@ -476,20 +544,18 @@
               "RelativeToolTip": "CourrierEntrant.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-13T14:07:36.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T14:07:36.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "CourrierSortantSceDRH.resx",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortantSceDRH.resx",
               "RelativeDocumentMoniker": "CourrierSortantSceDRH.resx",
               "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierSortantSceDRH.resx",
               "RelativeToolTip": "CourrierSortantSceDRH.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-05-31T18:20:38.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T18:20:38.875Z"
             }
           ]
         }

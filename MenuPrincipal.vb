@@ -1,4 +1,7 @@
 ﻿Public Class MenuPrincipal
+
+
+
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Dim CourrierEntr As New CourrierEntrant()
         CourrierEntr.Show()
@@ -31,6 +34,18 @@
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
         Dim Fis As New Finstruction()
         Fis.Show()
+        Me.Hide()
+    End Sub
+
+    Private Sub Button7_Click(sender As Object, e As EventArgs) Handles Button7.Click
+        Dim Frec As New Frecherche()
+        Frec.Show()
+        Me.Hide()
+    End Sub
+
+    Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
+        Dim FetatCourrier As New FEtatCourrier()
+        FetatCourrier.Show()
         Me.Hide()
     End Sub
 End Class

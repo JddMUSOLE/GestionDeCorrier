@@ -291,9 +291,6 @@ Public Class CourrierEntrantAgent
                 con.Open()
 
 
-
-
-
                 Using cmd3 = New SqlCommand(req, con)
                     cmd3.ExecuteNonQuery()
                     MessageBox.Show("Enregistrement effectué avec succès")

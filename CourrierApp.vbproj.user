@@ -25,6 +25,9 @@
     <Compile Update="CourrierSortantSceDRH.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FEtatCourrier.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Finstruction.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -38,6 +41,15 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="FormSelectOrientation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frecherche.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FSectConsul.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FSelectRecherche.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="MenuPrincipal.vb">

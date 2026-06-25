@@ -1559,13 +1559,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Une erreur s’est produite lors de l’obtention des données de vulnérabilité du package : Une erreur s'est produite lors de l'envoi de la demande."
-    }
-  ]
+  }
 }

@@ -18,9 +18,9 @@ Public Class Forientation
         TxtDateDoc.Text = DateDocument
         TxtDateRecept.Text = DateRecept
         TxtDateExpd.Text = DateExped
-        Txtannexe.Text = Annexe
-        TxtAnnotation.Text = annotation
-        TxtEtat.Text = Etat
+        'Txtannexe.Text = Annexe
+        'TxtAnnotation.Text = annotation
+        'TxtEtat.Text = Etat
 
 
     End Sub
@@ -189,5 +189,40 @@ Public Class Forientation
         Catch ex As Exception
             MessageBox.Show("Enregistrement: " & ex.Message)
         End Try
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        If (TxtEtat.Text <> "" Or Txtannexe.Text <> "" Or TxtAnnotation.Text <> "") Then
+            Try
+
+                req = "UPDATE Document SET CodeEtat=@CodeEtat, Annotation=@Annotation, Annexe=@Annexe WHERE RefDoc=@RefDoc"
+                If (con.State = ConnectionState.Closed) Then
+                    con.Open()
+                    Using cmd3 = New SqlCommand(req, con)
+                        cmd3.Parameters.AddWithValue("@CodeEtat", CodeEtatCharge)
+                        cmd3.Parameters.AddWithValue("@Annotation", TxtAnnotation.Text)
+                        cmd3.Parameters.AddWithValue("@Annexe", Txtannexe.Text)
+                        cmd3.Parameters.AddWithValue("@RefDoc", TxtRef.Text)
+                        cmd3.ExecuteNonQuery()
+                        MessageBox.Show("Mise à jour effectuée avec succès")
+
+                    End Using
+                    con.Close()
+                End If
+
+
+                'TxtAnnotation.Text = ""
+                'Txtannexe.Text = ""
+                'TxtEtat.Text = ""
+
+
+            Catch ex As Exception
+                MessageBox.Show("Enregistrement: " & ex.Message)
+            End Try
+        Else
+            MessageBox.Show("Remplissez les champs nécessaires")
+            TxtEtat.Focus()
+            TxtEtat.SelectAll()
+        End If
     End Sub
 End Class
