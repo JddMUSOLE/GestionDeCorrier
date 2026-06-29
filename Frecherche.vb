@@ -204,7 +204,7 @@ Public Class Frecherche
 
                 If (con.State = ConnectionState.Closed) Then
                     con.Open()
-                    req = "SELECT * FROM DataGridSelect WHERE RefDoc = @RefDoc"
+                    req = "SELECT * FROM DataGridSelect WHERE ConcerneDoc = @RefDoc"
                     cmd = New SqlCommand(req, con)
                     cmd.Parameters.AddWithValue("@RefDoc", TxtRef.Text.Trim)
                     Dread = cmd.ExecuteReader()

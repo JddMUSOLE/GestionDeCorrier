@@ -32,15 +32,14 @@ Partial Class FEtatCourrier
         Label2 = New Label()
         Label1 = New Label()
         dataGridCourierOrg = New DataGridView()
-        TxtDelai = New NumericUpDown()
+        TxtObjetComp = New TextBox()
         CType(dataGridCourierOrg, ComponentModel.ISupportInitialize).BeginInit()
-        CType(TxtDelai, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
         ' Button4
         ' 
         Button4.Font = New Font("Titillium Web", 9.899999F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Button4.Location = New Point(1236, 97)
+        Button4.Location = New Point(1659, 92)
         Button4.Name = "Button4"
         Button4.Size = New Size(188, 64)
         Button4.TabIndex = 32
@@ -50,7 +49,7 @@ Partial Class FEtatCourrier
         ' Button3
         ' 
         Button3.Font = New Font("Titillium Web", 9.899999F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Button3.Location = New Point(1049, 98)
+        Button3.Location = New Point(1472, 93)
         Button3.Name = "Button3"
         Button3.Size = New Size(188, 64)
         Button3.TabIndex = 33
@@ -60,7 +59,7 @@ Partial Class FEtatCourrier
         ' Button2
         ' 
         Button2.Font = New Font("Titillium Web", 9.899999F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Button2.Location = New Point(859, 98)
+        Button2.Location = New Point(1282, 93)
         Button2.Name = "Button2"
         Button2.Size = New Size(188, 64)
         Button2.TabIndex = 34
@@ -70,7 +69,7 @@ Partial Class FEtatCourrier
         ' Button1
         ' 
         Button1.Font = New Font("Titillium Web", 9.899999F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Button1.Location = New Point(672, 98)
+        Button1.Location = New Point(1095, 93)
         Button1.Name = "Button1"
         Button1.Size = New Size(188, 64)
         Button1.TabIndex = 35
@@ -81,11 +80,11 @@ Partial Class FEtatCourrier
         ' 
         Label2.BackColor = Color.Transparent
         Label2.Font = New Font("Titillium Web", 9.899999F)
-        Label2.Location = New Point(225, 101)
+        Label2.Location = New Point(12, 95)
         Label2.Name = "Label2"
-        Label2.Size = New Size(308, 61)
+        Label2.Size = New Size(197, 61)
         Label2.TabIndex = 31
-        Label2.Text = "Délai de traitement :"
+        Label2.Text = "Concerne :"
         Label2.TextAlign = ContentAlignment.MiddleRight
         ' 
         ' Label1
@@ -93,7 +92,7 @@ Partial Class FEtatCourrier
         Label1.Font = New Font("Titillium Web", 15.9000006F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         Label1.Location = New Point(2, 3)
         Label1.Name = "Label1"
-        Label1.Size = New Size(1699, 92)
+        Label1.Size = New Size(2001, 92)
         Label1.TabIndex = 29
         Label1.Text = "ETAT DE COURRIER"
         Label1.TextAlign = ContentAlignment.MiddleCenter
@@ -132,25 +131,24 @@ Partial Class FEtatCourrier
         DataGridViewCellStyle3.WrapMode = DataGridViewTriState.True
         dataGridCourierOrg.RowHeadersDefaultCellStyle = DataGridViewCellStyle3
         dataGridCourierOrg.RowHeadersWidth = 102
-        dataGridCourierOrg.Size = New Size(1683, 1119)
+        dataGridCourierOrg.Size = New Size(2001, 1119)
         dataGridCourierOrg.TabIndex = 36
         ' 
-        ' TxtDelai
+        ' TxtObjetComp
         ' 
-        TxtDelai.Font = New Font("Titillium Web", 9.899999F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        TxtDelai.Location = New Point(539, 101)
-        TxtDelai.Name = "TxtDelai"
-        TxtDelai.Size = New Size(133, 58)
-        TxtDelai.TabIndex = 37
-        TxtDelai.TextAlign = HorizontalAlignment.Center
+        TxtObjetComp.Font = New Font("Titillium Web", 9.899999F)
+        TxtObjetComp.Location = New Point(215, 98)
+        TxtObjetComp.Name = "TxtObjetComp"
+        TxtObjetComp.Size = New Size(874, 58)
+        TxtObjetComp.TabIndex = 37
         ' 
         ' FEtatCourrier
         ' 
         AutoScaleDimensions = New SizeF(17F, 41F)
         AutoScaleMode = AutoScaleMode.Font
         BackColor = SystemColors.ActiveBorder
-        ClientSize = New Size(1697, 1316)
-        Controls.Add(TxtDelai)
+        ClientSize = New Size(2003, 1316)
+        Controls.Add(TxtObjetComp)
         Controls.Add(dataGridCourierOrg)
         Controls.Add(Button4)
         Controls.Add(Button3)
@@ -162,8 +160,8 @@ Partial Class FEtatCourrier
         StartPosition = FormStartPosition.CenterScreen
         Text = "FEtatCourrier"
         CType(dataGridCourierOrg, ComponentModel.ISupportInitialize).EndInit()
-        CType(TxtDelai, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
+        PerformLayout()
     End Sub
 
     Friend WithEvents Button4 As Button
@@ -173,5 +171,5 @@ Partial Class FEtatCourrier
     Friend WithEvents Label2 As Label
     Friend WithEvents Label1 As Label
     Friend WithEvents dataGridCourierOrg As DataGridView
-    Friend WithEvents TxtDelai As NumericUpDown
+    Friend WithEvents TxtObjetComp As TextBox
 End Class

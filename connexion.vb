@@ -2,7 +2,7 @@
 Imports System.Data
 Imports System.Data.SqlClient
 Module connexion
-    Dim ChaineCon As String = "SERVER=JDD\SQL1; DATABASE=CourrierBDD; USER ID=CourrierDRH; PASSWORD=0000"
+    Dim ChaineCon As String = "SERVER=JDD\SQL1; DATABASE=CourrierBDD; USER ID=CourrierDRH; PASSWORD=1111"
     Public con As New SqlConnection(ChaineCon)
     Public typeDocument As String = "0001"
     Public typeDocumentSortant As String = "0002"
