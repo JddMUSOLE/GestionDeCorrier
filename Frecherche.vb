@@ -204,7 +204,9 @@ Public Class Frecherche
 
                 If (con.State = ConnectionState.Closed) Then
                     con.Open()
-                    req = "SELECT * FROM DataGridSelect WHERE ConcerneDoc = @RefDoc"
+                    req = "SELECT *, ISNULL(CONVERT(VARCHAR(10), DateReception, 103), '') AS DateRecptFrt, 
+                            ISNULL(CONVERT(VARCHAR(10), DateDoc, 103), '') AS DateDocFrt,
+                            ISNULL(CONVERT(VARCHAR(10), DateExpedition, 103), '') AS DateExpeditionFrt  FROM DataGridSelect WHERE ConcerneDoc = @RefDoc"
                     cmd = New SqlCommand(req, con)
                     cmd.Parameters.AddWithValue("@RefDoc", TxtRef.Text.Trim)
                     Dread = cmd.ExecuteReader()
@@ -212,12 +214,14 @@ Public Class Frecherche
                         concerne = Dread("ConcerneDoc").ToString
                         NumDocc = Dread("NumOrdDoc").ToString
                         RefDoc = Dread("RefDoc").ToString
-                        DateDocument = Dread("DateDoc").ToShortDateString
-                        DateRecept = Dread("DateReception").ToShortDateString
-                        DateExped = Dread("DateExpedition").ToShortDateString
+                        DateDocument = Dread("DateDocFrt")
+                        DateRecept = Dread("DateRecptFrt")
+                        DateExped = Dread("DateExpeditionFrt")
                         Etat = Dread("LibEtat1").ToString
                         Annexe = Dread("Annexe").ToString
                         annotation = Dread("Annotation").ToString
+                        'A changer
+
                         Dim FORT As New Forientation()
                         FORT.Show()
                         Me.Hide()

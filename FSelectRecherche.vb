@@ -6,8 +6,8 @@
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        Dim FRCH As New MenuPrincipal()
-        FRCH.Show()
+        Dim Frec As New Frecherche()
+        Frec.Show()
         Me.Hide()
     End Sub
 

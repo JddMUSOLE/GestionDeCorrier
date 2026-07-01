@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("CourrierApp"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd918609026848667761234ccf33b6a4a5168244"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1940daa41dd0f8e36cd08b530718be1872d33cba"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("CourrierApp"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("CourrierApp"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
