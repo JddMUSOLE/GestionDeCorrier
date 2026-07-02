@@ -8,6 +8,7 @@ Module connexion
     Public typeDocumentSortant As String = "0002"
     Public typeDocumentOS As String = "0003"
     Public typeDocumentIS As String = "0004"
+    Public typeDocumentOM As String = "0005"
     Public userMat As String
     Public codeOrganeExp As String
     Public codeOrganeDest As String

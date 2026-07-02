@@ -324,13 +324,13 @@ Public Class CourrierEntrantOrg
                     MessageBox.Show("Enregistrement effectué avec succès")
 
                 End Using
-
+                con.Close()
             End If
 
             formLoadFields()
             TxtNumSequence()
             fillGrid2()
-            con.Close()
+
         Catch ex As Exception
             MessageBox.Show("Enregistrement: " & ex.Message)
         End Try

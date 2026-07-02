@@ -49,4 +49,10 @@
         FetatCourrier.Show()
         Me.Hide()
     End Sub
+
+    Private Sub Button11_Click(sender As Object, e As EventArgs) Handles Button11.Click
+        Dim FOrdreMission As New FOrdreMission()
+        FOrdreMission.Show()
+        Me.Hide()
+    End Sub
 End Class

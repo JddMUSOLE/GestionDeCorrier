@@ -76,7 +76,7 @@ Partial Class Frecherche
         ' Button4
         ' 
         Button4.Font = New Font("Titillium Web", 9.899999F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Button4.Location = New Point(1493, 97)
+        Button4.Location = New Point(1499, 97)
         Button4.Name = "Button4"
         Button4.Size = New Size(188, 64)
         Button4.TabIndex = 25
@@ -86,7 +86,7 @@ Partial Class Frecherche
         ' Button3
         ' 
         Button3.Font = New Font("Titillium Web", 9.899999F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Button3.Location = New Point(1302, 98)
+        Button3.Location = New Point(1308, 98)
         Button3.Name = "Button3"
         Button3.Size = New Size(188, 64)
         Button3.TabIndex = 26
@@ -96,7 +96,7 @@ Partial Class Frecherche
         ' Button2
         ' 
         Button2.Font = New Font("Titillium Web", 9.899999F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Button2.Location = New Point(1108, 98)
+        Button2.Location = New Point(1114, 98)
         Button2.Name = "Button2"
         Button2.Size = New Size(188, 64)
         Button2.TabIndex = 27
@@ -108,9 +108,9 @@ Partial Class Frecherche
         Button1.Font = New Font("Titillium Web", 9.899999F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         Button1.Location = New Point(914, 98)
         Button1.Name = "Button1"
-        Button1.Size = New Size(188, 64)
+        Button1.Size = New Size(194, 64)
         Button1.TabIndex = 28
-        Button1.Text = "Afficher"
+        Button1.Text = "Télécharger"
         Button1.UseVisualStyleBackColor = True
         ' 
         ' TxtRef

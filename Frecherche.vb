@@ -197,7 +197,7 @@ Public Class Frecherche
             MessageBox.Show("Chargement datagrid: " & ex.Message)
         End Try
     End Sub
-
+    Dim UrlDoc As String
     Private Sub TxtRef_KeyDown(sender As Object, e As KeyEventArgs) Handles TxtRef.KeyDown
         If e.KeyData = Keys.Enter Then
             Try
@@ -220,11 +220,12 @@ Public Class Frecherche
                         Etat = Dread("LibEtat1").ToString
                         Annexe = Dread("Annexe").ToString
                         annotation = Dread("Annotation").ToString
+                        UrlDoc = Dread("Emplacement").ToString
                         'A changer
 
-                        Dim FORT As New Forientation()
-                        FORT.Show()
-                        Me.Hide()
+                        'Dim FORT As New Forientation()
+                        'FORT.Show()
+                        'Me.Hide()
 
                     Else
 
@@ -247,5 +248,52 @@ Public Class Frecherche
         Dim Fselect As New FSelectRecherche()
         Fselect.Show()
         Me.Hide()
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Try
+
+            If (con.State = ConnectionState.Closed) Then
+                con.Open()
+                req = "SELECT Emplacement FROM Document WHERE RefDoc = @RefDoc"
+                cmd = New SqlCommand(req, con)
+                cmd.Parameters.AddWithValue("@RefDoc", RefDoc)
+                Dread = cmd.ExecuteReader()
+                If (Dread.Read) Then
+
+                    UrlDoc = Dread("Emplacement").ToString
+                    If Not String.IsNullOrEmpty(UrlDoc) Then
+                        Try
+                            ' 3. Configuration pour forcer Windows à utiliser le navigateur par défaut
+                            Dim psi As New ProcessStartInfo()
+                            psi.FileName = UrlDoc
+                            psi.UseShellExecute = True ' Crucial sous .NET Core / .NET 5+
+
+                            ' 4. Lancement du processus
+                            Process.Start(psi)
+
+                        Catch ex As Exception
+                            ' En cas de problème (pas de connexion internet, URL malformée, etc.)
+                            MessageBox.Show("Impossible d'ouvrir le fichier PDF : " & ex.Message, "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                        End Try
+
+                    Else
+                        MessageBox.Show("Le lien du PDF est vide.", "Attention", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+                    End If
+
+                Else
+
+                        MessageBox.Show("Cette référence est inexistante")
+                    formLoadFields()
+
+                    fillGrid2()
+
+                End If
+
+            End If
+            con.Close()
+        Catch ex As Exception
+            MessageBox.Show("Numéro de séquence: " & ex.Message)
+        End Try
     End Sub
 End Class
