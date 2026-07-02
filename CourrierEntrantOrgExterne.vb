@@ -19,6 +19,7 @@ Public Class CourrierEntrantOrgExterne
         TxtObserv.Text = ""
         TxtDocScan.Text = ""
         TxtOrganeExpd.Text = ""
+        ComboCopieInfo.Text = ""
 
         TxtObjet.Focus()
         TxtObjet.Select()
@@ -29,26 +30,27 @@ Public Class CourrierEntrantOrgExterne
         Try
             Dim TxtNum As String
             Dim txtObjet As String
+            Dim TxtOrganeExterne As String
             Dim TxtDateCourrier As String
             Dim TxtDateReception As String
 
             Dim RefCourrier As String
-            dataGridCourierOrg.ColumnCount = 5
+            dataGridCourierOrg.ColumnCount = 6
             dataGridCourierOrg.Columns(0).Name = "Numéro"
             dataGridCourierOrg.Columns(1).Name = "Objet"
-
-            dataGridCourierOrg.Columns(2).Name = "Référence courrier"
-            dataGridCourierOrg.Columns(3).Name = "Date de courrier"
-            dataGridCourierOrg.Columns(4).Name = "Date de reception"
+            dataGridCourierOrg.Columns(2).Name = "Organe Expéditeur"
+            dataGridCourierOrg.Columns(3).Name = "Référence courrier"
+            dataGridCourierOrg.Columns(4).Name = "Date de courrier"
+            dataGridCourierOrg.Columns(5).Name = "Date de reception"
 
             dataGridCourierOrg.Rows.Clear()
 
             dataGridCourierOrg.Columns(0).AutoSizeMode = DataGridViewAutoSizeColumnMode.ColumnHeader
             dataGridCourierOrg.Columns(0).DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter
 
-            dataGridCourierOrg.Columns(3).DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter
             dataGridCourierOrg.Columns(4).DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter
-
+            dataGridCourierOrg.Columns(5).DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter
+            dataGridCourierOrg.Columns(2).DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter
 
 
 
@@ -61,12 +63,12 @@ Public Class CourrierEntrantOrgExterne
                     While Dread1.Read()
                         TxtNum = Dread1("NumOrdDoc").ToString()
                         txtObjet = Dread1("ConcerneDoc").ToString()
-
+                        TxtOrganeExterne = Dread1("OrganeExterne").ToString()
                         RefCourrier = Dread1("RefDoc").ToString()
                         TxtDateCourrier = CDate(Dread1("DateDoc")).ToShortDateString
                         TxtDateReception = CDate(Dread1("DateReception")).ToShortDateString
 
-                        dataGridCourierOrg.Rows.Add(TxtNum, txtObjet, RefCourrier, TxtDateCourrier, TxtDateReception)
+                        dataGridCourierOrg.Rows.Add(TxtNum, txtObjet, TxtOrganeExterne, RefCourrier, TxtDateCourrier, TxtDateReception)
                     End While
 
 
@@ -184,5 +186,35 @@ Public Class CourrierEntrantOrgExterne
         End Try
     End Sub
 
+    Private Sub ComboCopieInfo_DropDown(sender As Object, e As EventArgs) Handles ComboCopieInfo.DropDown
+        Try
+            If (con.State = ConnectionState.Closed) Then
+                con.Open()
+                Dim req2 = "SELECT AbrevDir FROM  Direction"
+                Dim cmd2 As New SqlCommand(req2, con)
+                Using Dread2 As SqlDataReader = cmd2.ExecuteReader
+                    ComboCopieInfo.Items.Clear()
+                    While Dread2.Read()
+                        ComboCopieInfo.Items.Add(Dread2(0).ToString())
+                    End While
+                End Using
+                con.Close()
+            End If
+        Catch ex As Exception
+            MessageBox.Show("Chargement Copie info: " & ex.Message)
+        End Try
+    End Sub
 
+    Private Sub ComboCopieInfo_SelectedValueChanged(sender As Object, e As EventArgs) Handles ComboCopieInfo.SelectedValueChanged
+        If String.IsNullOrEmpty(ComboCopieInfo.Text) Then
+
+        ElseIf TxtCopieInfo.Text.Contains(ComboCopieInfo.Text) Then
+
+        Else
+            Dim chaineCI As String = TxtCopieInfo.Text.TrimStart(" "c, "/"c)
+            chaineCI += " / " & ComboCopieInfo.Text
+            TxtCopieInfo.Text = chaineCI.TrimStart(" "c, "/"c)
+
+        End If
+    End Sub
 End Class

@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierentrantorgexterne.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courrierentrantorgexterne.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierentrantorgexterne.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courrierentrantorgexterne.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierentrantagent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courrierentrantagent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierentrantagent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courrierentrantagent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\fordremission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:fordremission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -37,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierentrantorg.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courrierentrantorg.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierentrantorgexterne.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courrierentrantorgexterne.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierentrantorgexterne.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courrierentrantorgexterne.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\frecherche.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -93,14 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\finstruction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:finstruction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierentrantagent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courrierentrantagent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierentrantagent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|solutionrelative:courrierentrantagent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8EA84B0-9022-EFC7-2C99-B4A17A874542}|CourrierApp.vbproj|c:\\users\\jeand\\source\\repos\\courrierapp\\courrierentrant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
@@ -166,11 +166,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "FordreServ.vb",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FordreServ.vb",
               "RelativeDocumentMoniker": "FordreServ.vb",
@@ -179,8 +179,7 @@
               "ViewState": "AgIAAKUAAAAAAAAAAAAQwNQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-06-02T16:07:57.899Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -188,133 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FOrdreMission.vb",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FOrdreMission.vb",
-              "RelativeDocumentMoniker": "FOrdreMission.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FOrdreMission.vb",
-              "RelativeToolTip": "FOrdreMission.vb",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAgwGMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-07-01T14:02:22.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "connexion.vb",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\connexion.vb",
-              "RelativeDocumentMoniker": "connexion.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\connexion.vb",
-              "RelativeToolTip": "connexion.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-06-27T21:09:05.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FOrdreMission.vb [Conception]",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FOrdreMission.vb",
-              "RelativeDocumentMoniker": "FOrdreMission.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FOrdreMission.vb [Conception]",
-              "RelativeToolTip": "FOrdreMission.vb [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-07-01T14:00:34.386Z",
-              "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FordreServ.vb [Conception]",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FordreServ.vb",
-              "RelativeDocumentMoniker": "FordreServ.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FordreServ.vb [Conception]",
-              "RelativeToolTip": "FordreServ.vb [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-07-01T14:01:14.008Z",
-              "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MenuPrincipal.vb",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\MenuPrincipal.vb",
-              "RelativeDocumentMoniker": "MenuPrincipal.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\MenuPrincipal.vb",
-              "RelativeToolTip": "MenuPrincipal.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-06-02T16:09:58.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MenuPrincipal.vb [Conception]",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\MenuPrincipal.vb",
-              "RelativeDocumentMoniker": "MenuPrincipal.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\MenuPrincipal.vb [Conception]",
-              "RelativeToolTip": "MenuPrincipal.vb [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-15T17:45:30.022Z",
-              "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CourrierEntrantOrg.vb [Conception]",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrg.vb",
-              "RelativeDocumentMoniker": "CourrierEntrantOrg.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrg.vb [Conception]",
-              "RelativeToolTip": "CourrierEntrantOrg.vb [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-12T15:36:27.62Z",
-              "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CourrierEntrantOrg.vb",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrg.vb",
-              "RelativeDocumentMoniker": "CourrierEntrantOrg.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrg.vb",
-              "RelativeToolTip": "CourrierEntrantOrg.vb",
-              "ViewState": "AgIAAPYAAAAAAAAAAAAswEkBAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-07-01T13:41:25.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CourrierEntrantOrgExterne.vb",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrgExterne.vb",
-              "RelativeDocumentMoniker": "CourrierEntrantOrgExterne.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrgExterne.vb",
-              "RelativeToolTip": "CourrierEntrantOrgExterne.vb",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAcwK8AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-07-01T13:41:42.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Frecherche.vb",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Frecherche.vb",
-              "RelativeDocumentMoniker": "Frecherche.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Frecherche.vb",
-              "RelativeToolTip": "Frecherche.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgBAAB+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-06-11T11:54:18.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "CourrierEntrantOrgExterne.vb [Conception]",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrgExterne.vb",
               "RelativeDocumentMoniker": "CourrierEntrantOrgExterne.vb",
@@ -326,7 +199,154 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourrierEntrantOrgExterne.vb",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrgExterne.vb",
+              "RelativeDocumentMoniker": "CourrierEntrantOrgExterne.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrgExterne.vb",
+              "RelativeToolTip": "CourrierEntrantOrgExterne.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-07-01T13:41:42.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourrierEntrantAgent.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantAgent.vb",
+              "RelativeDocumentMoniker": "CourrierEntrantAgent.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantAgent.vb [Conception]",
+              "RelativeToolTip": "CourrierEntrantAgent.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-17T14:38:24.786Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourrierEntrantAgent.vb",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantAgent.vb",
+              "RelativeDocumentMoniker": "CourrierEntrantAgent.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantAgent.vb",
+              "RelativeToolTip": "CourrierEntrantAgent.vb",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAIwA0BAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-17T14:38:27.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FOrdreMission.vb",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FOrdreMission.vb",
+              "RelativeDocumentMoniker": "FOrdreMission.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FOrdreMission.vb",
+              "RelativeToolTip": "FOrdreMission.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-07-01T14:02:22.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FOrdreMission.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FOrdreMission.vb",
+              "RelativeDocumentMoniker": "FOrdreMission.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FOrdreMission.vb [Conception]",
+              "RelativeToolTip": "FOrdreMission.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-07-01T14:00:34.386Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "connexion.vb",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\connexion.vb",
+              "RelativeDocumentMoniker": "connexion.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\connexion.vb",
+              "RelativeToolTip": "connexion.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-27T21:09:05.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FordreServ.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FordreServ.vb",
+              "RelativeDocumentMoniker": "FordreServ.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FordreServ.vb [Conception]",
+              "RelativeToolTip": "FordreServ.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-07-01T14:01:14.008Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuPrincipal.vb",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\MenuPrincipal.vb",
+              "RelativeDocumentMoniker": "MenuPrincipal.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\MenuPrincipal.vb",
+              "RelativeToolTip": "MenuPrincipal.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-02T16:09:58.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuPrincipal.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\MenuPrincipal.vb",
+              "RelativeDocumentMoniker": "MenuPrincipal.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\MenuPrincipal.vb [Conception]",
+              "RelativeToolTip": "MenuPrincipal.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-15T17:45:30.022Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "CourrierEntrantOrg.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrg.vb",
+              "RelativeDocumentMoniker": "CourrierEntrantOrg.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrg.vb [Conception]",
+              "RelativeToolTip": "CourrierEntrantOrg.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-12T15:36:27.62Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourrierEntrantOrg.vb",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrg.vb",
+              "RelativeDocumentMoniker": "CourrierEntrantOrg.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantOrg.vb",
+              "RelativeToolTip": "CourrierEntrantOrg.vb",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAswEkBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-07-01T13:41:25.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Frecherche.vb",
+              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Frecherche.vb",
+              "RelativeDocumentMoniker": "Frecherche.vb",
+              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Frecherche.vb",
+              "RelativeToolTip": "Frecherche.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgBAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-11T11:54:18.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Frecherche.vb [Conception]",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Frecherche.vb",
               "RelativeDocumentMoniker": "Frecherche.vb",
@@ -338,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "FormSelectOrientation.vb",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FormSelectOrientation.vb",
               "RelativeDocumentMoniker": "FormSelectOrientation.vb",
@@ -350,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "FormSelectOrientation.vb [Conception]",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FormSelectOrientation.vb",
               "RelativeDocumentMoniker": "FormSelectOrientation.vb",
@@ -362,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "FSelectRecherche.vb",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FSelectRecherche.vb",
               "RelativeDocumentMoniker": "FSelectRecherche.vb",
@@ -374,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "FSelectRecherche.vb [Conception]",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FSelectRecherche.vb",
               "RelativeDocumentMoniker": "FSelectRecherche.vb",
@@ -386,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "FEtatCourrier.vb",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FEtatCourrier.vb",
               "RelativeDocumentMoniker": "FEtatCourrier.vb",
@@ -398,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Forientation.vb",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Forientation.vb",
               "RelativeDocumentMoniker": "Forientation.vb",
@@ -410,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "FEtatCourrier.vb [Conception]",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FEtatCourrier.vb",
               "RelativeDocumentMoniker": "FEtatCourrier.vb",
@@ -422,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Forientation.vb [Conception]",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Forientation.vb",
               "RelativeDocumentMoniker": "Forientation.vb",
@@ -434,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "FSectConsul.vb [Conception]",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\FSectConsul.vb",
               "RelativeDocumentMoniker": "FSectConsul.vb",
@@ -446,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Finstruction.vb [Conception]",
               "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\Finstruction.vb",
               "RelativeDocumentMoniker": "Finstruction.vb",
@@ -454,30 +474,6 @@
               "RelativeToolTip": "Finstruction.vb [Conception]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-06-03T11:50:30.595Z",
-              "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CourrierEntrantAgent.vb",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantAgent.vb",
-              "RelativeDocumentMoniker": "CourrierEntrantAgent.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantAgent.vb",
-              "RelativeToolTip": "CourrierEntrantAgent.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-06-17T14:38:27.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CourrierEntrantAgent.vb [Conception]",
-              "DocumentMoniker": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantAgent.vb",
-              "RelativeDocumentMoniker": "CourrierEntrantAgent.vb",
-              "ToolTip": "C:\\Users\\jeand\\source\\repos\\CourrierApp\\CourrierEntrantAgent.vb [Conception]",
-              "RelativeToolTip": "CourrierEntrantAgent.vb [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-06-17T14:38:24.786Z",
               "EditorCaption": " [Conception]"
             },
             {

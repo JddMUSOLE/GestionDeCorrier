@@ -137,7 +137,7 @@ Partial Class CourrierEntrantAgent
         Label12.Name = "Label12"
         Label12.Size = New Size(308, 61)
         Label12.TabIndex = 15
-        Label12.Text = "Agent destinataire :"
+        Label12.Text = "Agent Expéditeur :"
         Label12.TextAlign = ContentAlignment.MiddleRight
         ' 
         ' TxtAGTNoms

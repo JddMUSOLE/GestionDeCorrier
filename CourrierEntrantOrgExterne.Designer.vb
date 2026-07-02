@@ -34,15 +34,16 @@ Partial Class CourrierEntrantOrgExterne
         TxtDocScan = New TextBox()
         Label10 = New Label()
         GroupBox1 = New GroupBox()
+        ComboCopieInfo = New ComboBox()
+        TxtCopieInfo = New TextBox()
+        Label9 = New Label()
         TxtDateRecept = New DateTimePicker()
         TxtDateDoc = New DateTimePicker()
-        TxtCopieInfo = New TextBox()
         TxtNum = New TextBox()
         TxtRef = New TextBox()
         Label6 = New Label()
         TxtObjet = New TextBox()
         Label5 = New Label()
-        Label7 = New Label()
         Label2 = New Label()
         Label4 = New Label()
         Label3 = New Label()
@@ -67,7 +68,7 @@ Partial Class CourrierEntrantOrgExterne
         GroupBox2.Controls.Add(Label8)
         GroupBox2.Controls.Add(TxtDocScan)
         GroupBox2.Controls.Add(Label10)
-        GroupBox2.Location = New Point(5, 569)
+        GroupBox2.Location = New Point(5, 551)
         GroupBox2.Name = "GroupBox2"
         GroupBox2.Size = New Size(1803, 246)
         GroupBox2.TabIndex = 23
@@ -143,25 +144,54 @@ Partial Class CourrierEntrantOrgExterne
         ' 
         ' GroupBox1
         ' 
+        GroupBox1.Controls.Add(ComboCopieInfo)
+        GroupBox1.Controls.Add(TxtCopieInfo)
+        GroupBox1.Controls.Add(Label9)
         GroupBox1.Controls.Add(TxtDateRecept)
         GroupBox1.Controls.Add(TxtDateDoc)
-        GroupBox1.Controls.Add(TxtCopieInfo)
         GroupBox1.Controls.Add(TxtNum)
         GroupBox1.Controls.Add(TxtRef)
         GroupBox1.Controls.Add(Label6)
         GroupBox1.Controls.Add(TxtObjet)
         GroupBox1.Controls.Add(Label5)
-        GroupBox1.Controls.Add(Label7)
         GroupBox1.Controls.Add(Label2)
         GroupBox1.Controls.Add(Label4)
         GroupBox1.Controls.Add(Label3)
         GroupBox1.Font = New Font("Titillium Web", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         GroupBox1.Location = New Point(7, 113)
         GroupBox1.Name = "GroupBox1"
-        GroupBox1.Size = New Size(1803, 427)
+        GroupBox1.Size = New Size(1803, 426)
         GroupBox1.TabIndex = 22
         GroupBox1.TabStop = False
         GroupBox1.Text = "Informations du courrier"
+        ' 
+        ' ComboCopieInfo
+        ' 
+        ComboCopieInfo.Font = New Font("Titillium Web", 9.899999F)
+        ComboCopieInfo.FormattingEnabled = True
+        ComboCopieInfo.Location = New Point(287, 355)
+        ComboCopieInfo.Name = "ComboCopieInfo"
+        ComboCopieInfo.Size = New Size(242, 58)
+        ComboCopieInfo.TabIndex = 30
+        ' 
+        ' TxtCopieInfo
+        ' 
+        TxtCopieInfo.Font = New Font("Titillium Web", 9.899999F)
+        TxtCopieInfo.Location = New Point(533, 355)
+        TxtCopieInfo.Name = "TxtCopieInfo"
+        TxtCopieInfo.Size = New Size(1252, 58)
+        TxtCopieInfo.TabIndex = 31
+        ' 
+        ' Label9
+        ' 
+        Label9.BackColor = Color.Transparent
+        Label9.Font = New Font("Titillium Web", 9.899999F)
+        Label9.Location = New Point(9, 355)
+        Label9.Name = "Label9"
+        Label9.Size = New Size(280, 61)
+        Label9.TabIndex = 32
+        Label9.Text = "Copie Info. :"
+        Label9.TextAlign = ContentAlignment.MiddleRight
         ' 
         ' TxtDateRecept
         ' 
@@ -178,14 +208,6 @@ Partial Class CourrierEntrantOrgExterne
         TxtDateDoc.Name = "TxtDateDoc"
         TxtDateDoc.Size = New Size(500, 58)
         TxtDateDoc.TabIndex = 20
-        ' 
-        ' TxtCopieInfo
-        ' 
-        TxtCopieInfo.Font = New Font("Titillium Web", 9.899999F)
-        TxtCopieInfo.Location = New Point(290, 353)
-        TxtCopieInfo.Name = "TxtCopieInfo"
-        TxtCopieInfo.Size = New Size(1496, 58)
-        TxtCopieInfo.TabIndex = 23
         ' 
         ' TxtNum
         ' 
@@ -234,17 +256,6 @@ Partial Class CourrierEntrantOrgExterne
         Label5.Text = "Date courrier :"
         Label5.TextAlign = ContentAlignment.MiddleRight
         ' 
-        ' Label7
-        ' 
-        Label7.BackColor = Color.Transparent
-        Label7.Font = New Font("Titillium Web", 9.899999F)
-        Label7.Location = New Point(10, 345)
-        Label7.Name = "Label7"
-        Label7.Size = New Size(280, 61)
-        Label7.TabIndex = 28
-        Label7.Text = "Copie Info. :"
-        Label7.TextAlign = ContentAlignment.MiddleRight
-        ' 
         ' Label2
         ' 
         Label2.BackColor = Color.Transparent
@@ -281,7 +292,7 @@ Partial Class CourrierEntrantOrgExterne
         ' BtnQuitter
         ' 
         BtnQuitter.Font = New Font("Titillium Web", 9.899999F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        BtnQuitter.Location = New Point(1066, 832)
+        BtnQuitter.Location = New Point(1066, 814)
         BtnQuitter.Name = "BtnQuitter"
         BtnQuitter.Size = New Size(188, 105)
         BtnQuitter.TabIndex = 19
@@ -291,7 +302,7 @@ Partial Class CourrierEntrantOrgExterne
         ' BtnAnnuler
         ' 
         BtnAnnuler.Font = New Font("Titillium Web", 9.899999F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        BtnAnnuler.Location = New Point(688, 832)
+        BtnAnnuler.Location = New Point(688, 814)
         BtnAnnuler.Name = "BtnAnnuler"
         BtnAnnuler.Size = New Size(188, 105)
         BtnAnnuler.TabIndex = 18
@@ -301,7 +312,7 @@ Partial Class CourrierEntrantOrgExterne
         ' Button1
         ' 
         Button1.Font = New Font("Titillium Web", 9.899999F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Button1.Location = New Point(877, 832)
+        Button1.Location = New Point(877, 814)
         Button1.Name = "Button1"
         Button1.Size = New Size(188, 105)
         Button1.TabIndex = 16
@@ -311,7 +322,7 @@ Partial Class CourrierEntrantOrgExterne
         ' BtnEnregistrer
         ' 
         BtnEnregistrer.Font = New Font("Titillium Web", 9.899999F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        BtnEnregistrer.Location = New Point(499, 832)
+        BtnEnregistrer.Location = New Point(499, 814)
         BtnEnregistrer.Name = "BtnEnregistrer"
         BtnEnregistrer.Size = New Size(188, 105)
         BtnEnregistrer.TabIndex = 17
@@ -340,7 +351,7 @@ Partial Class CourrierEntrantOrgExterne
         DataGridViewCellStyle2.SelectionForeColor = SystemColors.HighlightText
         DataGridViewCellStyle2.WrapMode = DataGridViewTriState.False
         dataGridCourierOrg.DefaultCellStyle = DataGridViewCellStyle2
-        dataGridCourierOrg.Location = New Point(7, 961)
+        dataGridCourierOrg.Location = New Point(7, 942)
         dataGridCourierOrg.Name = "dataGridCourierOrg"
         dataGridCourierOrg.ReadOnly = True
         DataGridViewCellStyle3.Alignment = DataGridViewContentAlignment.MiddleLeft
@@ -352,7 +363,7 @@ Partial Class CourrierEntrantOrgExterne
         DataGridViewCellStyle3.WrapMode = DataGridViewTriState.True
         dataGridCourierOrg.RowHeadersDefaultCellStyle = DataGridViewCellStyle3
         dataGridCourierOrg.RowHeadersWidth = 102
-        dataGridCourierOrg.Size = New Size(1803, 809)
+        dataGridCourierOrg.Size = New Size(1803, 828)
         dataGridCourierOrg.TabIndex = 20
         ' 
         ' Label1
@@ -404,13 +415,11 @@ Partial Class CourrierEntrantOrgExterne
     Friend WithEvents GroupBox1 As GroupBox
     Friend WithEvents TxtDateRecept As DateTimePicker
     Friend WithEvents TxtDateDoc As DateTimePicker
-    Friend WithEvents TxtCopieInfo As TextBox
     Friend WithEvents TxtNum As TextBox
     Friend WithEvents TxtRef As TextBox
     Friend WithEvents Label6 As Label
     Friend WithEvents TxtObjet As TextBox
     Friend WithEvents Label5 As Label
-    Friend WithEvents Label7 As Label
     Friend WithEvents Label2 As Label
     Friend WithEvents Label4 As Label
     Friend WithEvents Label3 As Label
@@ -422,4 +431,7 @@ Partial Class CourrierEntrantOrgExterne
     Friend WithEvents Label1 As Label
     Friend WithEvents TxtOrganeExpd As TextBox
     Friend WithEvents boiteDilogFichier As OpenFileDialog
+    Friend WithEvents ComboCopieInfo As ComboBox
+    Friend WithEvents TxtCopieInfo As TextBox
+    Friend WithEvents Label9 As Label
 End Class
